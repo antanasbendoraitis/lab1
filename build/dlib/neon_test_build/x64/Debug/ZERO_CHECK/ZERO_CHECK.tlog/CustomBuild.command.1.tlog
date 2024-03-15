@@ -1,0 +1,10 @@
+^C:\USERS\ANTAN\ONEDRIVE\STALINIS KOMPIUTERIS\MAGISTRAS IV PUSMETIS\PROGRAMŲ PRIEŽIŪRA IR TOBULINIMAS\LABORATORINIS 1\DLIB-19.24\BUILD\DLIB\NEON_TEST_BUILD\CMAKEFILES\205336F8AAC75C3FCB642AB3B5BF9DF0\GENERATE.STAMP.RULE
+setlocal
+C:\cmake-3.29.0-rc3-windows-x86_64\bin\cmake.exe "-SC:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/test_for_neon" "-BC:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/build/dlib/neon_test_build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/build/dlib/neon_test_build/neon_test.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

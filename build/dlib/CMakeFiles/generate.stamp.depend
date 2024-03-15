@@ -1,0 +1,39 @@
+# CMake generation dependency list for this directory.
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/CMakeLists.txt
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/check_if_neon_available.cmake
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/dlib.pc.in
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/dlibConfig.cmake.in
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/find_blas.cmake
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/find_libjpeg.cmake
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/find_libpng.cmake
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/find_libwebp.cmake
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/release_build_by_default
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/set_compiler_specific_options.cmake
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/cmake_utils/use_cpp_11.cmake
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/config.h.in
+C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source/dlib/revision.h.in
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CPack.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CPackComponent.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CheckFunctionExists.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CheckIncludeFile.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CheckLibraryExists.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/CheckTypeSize.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindBLAS.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindCUDA.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindCUDA/select_compute_arch.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindGIF.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindJPEG.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindPNG.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindPackageMessage.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindThreads.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/FindZLIB.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/SelectLibraryConfigurations.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+C:/cmake-3.29.0-rc3-windows-x86_64/share/cmake-3.29/Templates/CPackConfig.cmake.in

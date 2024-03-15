@@ -1,0 +1,10 @@
+^C:\USERS\ANTAN\ONEDRIVE\STALINIS KOMPIUTERIS\MAGISTRAS IV PUSMETIS\PROGRAMŲ PRIEŽIŪRA IR TOBULINIMAS\LABORATORINIS 1\DLIB-19.24\SOURCE\DLIB\CMAKELISTS.TXT
+setlocal
+C:\cmake-3.29.0-rc3-windows-x86_64\bin\cmake.exe "-SC:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/source" "-BC:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/build" --check-stamp-file "C:/Users/antan/OneDrive/Stalinis kompiuteris/Magistras IV pusmetis/Programų priežiūra ir tobulinimas/Laboratorinis 1/dlib-19.24/build/dlib/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
