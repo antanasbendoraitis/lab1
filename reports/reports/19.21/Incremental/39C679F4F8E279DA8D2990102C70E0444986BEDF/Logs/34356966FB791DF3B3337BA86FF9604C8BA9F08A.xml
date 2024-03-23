@@ -1,0 +1,7 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\svm\auto.cpp" line="25" col="9" msg="extension used" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\svm\auto.cpp" line="26" col="92" msg="empty expression statement has no effect; remove unnecessary &apos;;&apos; to silence this warning" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\svm\auto.cpp" line="28" col="9" msg="extension used" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\svm\auto.cpp" line="34" col="10" msg="empty expression statement has no effect; remove unnecessary &apos;;&apos; to silence this warning" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\svm\auto.cpp" line="4" col="9" msg="macro is not used" />
+</log>

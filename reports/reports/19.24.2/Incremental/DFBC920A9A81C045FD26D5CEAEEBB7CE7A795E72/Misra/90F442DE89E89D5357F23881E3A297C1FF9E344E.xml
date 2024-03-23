@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.24.2\source\dlib\external\libjpeg\jcdctmgr.c"><violation beginline="45" begincolumn="9" rule="Rule9-5-1" ruleset="Classes">
+</violation>
+<violation beginline="86" begincolumn="33" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="118" begincolumn="4" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="118" begincolumn="4" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="122" begincolumn="4" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="122" begincolumn="4" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="146" begincolumn="33" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="192" begincolumn="8" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="193" begincolumn="8" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="343" begincolumn="2" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="347" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="347" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="347" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="352" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="353" begincolumn="35" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="354" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="354" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="438" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="460" begincolumn="8" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="461" begincolumn="8" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+</file><file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.24.2\source\dlib\external\libjpeg\jpeglib.h"><violation beginline="720" begincolumn="3" rule="Rule9-5-1" ruleset="Classes">
+</violation>
+</file></cppdepend-plugin>

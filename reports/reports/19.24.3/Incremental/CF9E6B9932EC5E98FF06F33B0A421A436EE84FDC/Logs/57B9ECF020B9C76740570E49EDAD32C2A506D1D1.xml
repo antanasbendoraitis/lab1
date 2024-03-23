@@ -1,0 +1,8 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\misc_api\misc_api_kernel_1.cpp" line="15" col="10" msg="non-portable path to file &apos;&lt;Windows.h&gt;&apos;; specified path differs in case from file name on disk" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\misc_api\misc_api_kernel_1.cpp" line="44" col="26" msg="declaration requires an exit-time destructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\misc_api\misc_api_kernel_1.cpp" line="57" col="11" msg="declaration requires a global constructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\misc_api\misc_api_kernel_1.cpp" line="121" col="42" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\misc_api\misc_api_kernel_1.cpp" line="128" col="32" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\misc_api\misc_api_kernel_1.cpp" line="4" col="9" msg="macro is not used" />
+</log>

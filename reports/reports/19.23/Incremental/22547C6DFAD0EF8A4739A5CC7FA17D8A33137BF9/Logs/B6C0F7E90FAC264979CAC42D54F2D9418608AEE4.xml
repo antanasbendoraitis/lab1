@@ -1,0 +1,7 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\bsp\bsp.cpp" line="86" col="55" msg="implicit conversion loses integer precision: &apos;size_t&apos; (aka &apos;unsigned long long&apos;) to &apos;const unsigned long&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\bsp\bsp.cpp" line="136" col="14" msg="no previous prototype for function &apos;read_thread&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\bsp\bsp.cpp" line="443" col="21" msg="extension used" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\bsp\bsp.cpp" line="443" col="67" msg="empty expression statement has no effect; remove unnecessary &apos;;&apos; to silence this warning" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\bsp\bsp.cpp" line="4" col="9" msg="macro is not used" />
+</log>

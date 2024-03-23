@@ -1,0 +1,3 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.17\source\dlib\external\libpng\arm\filter_neon_intrinsics.c" line="18" col="5" msg="&apos;PNG_ARM_NEON_IMPLEMENTATION&apos; is not defined, evaluates to 0" />
+</log>

@@ -1,0 +1,3 @@
+c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.21\build\%(filename).h
+module;std;std.ixx
+module;std.compat;std.compat.ixx

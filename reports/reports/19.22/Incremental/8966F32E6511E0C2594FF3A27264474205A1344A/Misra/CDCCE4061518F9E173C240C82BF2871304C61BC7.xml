@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.22\source\dlib\external\zlib\deflate.h"><violation beginline="66" begincolumn="5" rule="Rule9-5-1" ruleset="Classes">
+</violation>
+<violation beginline="70" begincolumn="5" rule="Rule9-5-1" ruleset="Classes">
+</violation>
+</file><file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.22\source\dlib\external\zlib\trees.c"><violation beginline="132" begincolumn="19" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+</file></cppdepend-plugin>

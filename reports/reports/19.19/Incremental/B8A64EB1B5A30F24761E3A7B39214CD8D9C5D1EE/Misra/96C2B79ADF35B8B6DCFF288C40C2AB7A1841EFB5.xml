@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\program files (x86)\windows kits\10\include\10.0.22000.0\ucrt\corecrt_malloc.h"><violation beginline="100" begincolumn="10" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="89" begincolumn="1" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="100" begincolumn="10" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="89" begincolumn="1" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.19\source\dlib\external\libjpeg\jmemnobs.c"><violation beginline="90" begincolumn="3" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+</file><file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.19\source\dlib\external\libjpeg\jpeglib.h"><violation beginline="700" begincolumn="3" rule="Rule9-5-1" ruleset="Classes">
+</violation>
+</file></cppdepend-plugin>

@@ -1,0 +1,5 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\server\server_iostream.cpp" line="10" col="35" msg="declaration requires an exit-time destructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\server\server_iostream.cpp" line="10" col="35" msg="declaration requires a global destructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\server\server_iostream.cpp" line="4" col="9" msg="macro is not used" />
+</log>

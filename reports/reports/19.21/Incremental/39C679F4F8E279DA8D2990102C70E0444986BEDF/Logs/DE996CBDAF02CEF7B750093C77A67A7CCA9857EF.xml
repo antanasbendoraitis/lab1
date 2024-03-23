@@ -1,0 +1,5 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\dir_nav\dir_nav_extensions.cpp" line="25" col="52" msg="implicit conversion loses integer precision: &apos;size_type&apos; (aka &apos;unsigned long long&apos;) to &apos;const unsigned long&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\dir_nav\dir_nav_extensions.cpp" line="27" col="49" msg="implicit conversion loses integer precision: &apos;size_type&apos; (aka &apos;unsigned long long&apos;) to &apos;const unsigned long&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\dir_nav\dir_nav_extensions.cpp" line="4" col="9" msg="macro is not used" />
+</log>

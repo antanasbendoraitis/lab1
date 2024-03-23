@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.24.3\source\dlib\external\libjpeg\jidctint.c"><violation beginline="459" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="459" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="459" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="610" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="610" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="610" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="733" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="733" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="733" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="850" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="850" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="850" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="956" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="956" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="956" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1134" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1134" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1134" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1308" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1308" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1308" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1505" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1505" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1505" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1701" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1701" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1701" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1919" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1919" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="1919" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2149" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2149" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2149" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2377" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2377" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2377" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2621" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2621" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="2621" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3163" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3163" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3163" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3362" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3362" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3362" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3542" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3542" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3542" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3708" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3708" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3708" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3866" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3866" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3866" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3978" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3978" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="3978" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4114" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4114" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4114" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4338" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4338" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4338" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4525" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4525" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4525" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4693" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4693" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="4693" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="5035" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="5035" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="5035" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="5144" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="5144" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="5144" begincolumn="26" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+</file><file path="c:\users\antan\onedrive\stalinis kompiuteris\magistras iv pusmetis\programų priežiūra ir tobulinimas\laboratorinis 1\dlib-19.24.3\source\dlib\external\libjpeg\jpeglib.h"><violation beginline="720" begincolumn="3" rule="Rule9-5-1" ruleset="Classes">
+</violation>
+</file></cppdepend-plugin>

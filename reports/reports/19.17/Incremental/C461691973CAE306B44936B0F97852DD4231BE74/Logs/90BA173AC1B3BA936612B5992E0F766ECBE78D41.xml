@@ -1,0 +1,7 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.17\source\dlib\threads\threads_kernel_1.cpp" line="30" col="32" msg="no previous prototype for function &apos;thread_starter&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.17\source\dlib\threads\threads_kernel_1.cpp" line="59" col="54" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.17\source\dlib\threads\threads_kernel_1.cpp" line="59" col="30" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.17\source\dlib\threads\threads_kernel_1.cpp" line="63" col="29" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.17\source\dlib\threads\threads_kernel_1.cpp" line="4" col="9" msg="macro is not used" />
+</log>

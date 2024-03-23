@@ -1,0 +1,6 @@
+<log>
+ <error level="error" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\external\zlib\gzclose.c" line="11" col="21" msg="unknown type name &apos;file&apos;" />
+ <error level="error" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\external\zlib\gzclose.c" line="11" col="26" msg="expected &apos;;&apos; after top level declarator" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\external\zlib\gzclose.c" line="12" col="12" msg="no previous extern declaration for non-static variable &apos;file&apos;" />
+ <error level="error" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.23\source\dlib\external\zlib\gzclose.c" line="13" col="1" msg="expected unqualified-id" />
+</log>

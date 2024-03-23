@@ -1,0 +1,8 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\unicode\unicode.cpp" line="44" col="34" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\unicode\unicode.cpp" line="50" col="34" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\unicode\unicode.cpp" line="51" col="34" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\unicode\unicode.cpp" line="67" col="20" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\unicode\unicode.cpp" line="110" col="41" msg="implicit conversion changes signedness: &apos;int&apos; to &apos;size_type&apos; (aka &apos;unsigned long long&apos;)" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.3\source\dlib\unicode\unicode.cpp" line="4" col="9" msg="macro is not used" />
+</log>

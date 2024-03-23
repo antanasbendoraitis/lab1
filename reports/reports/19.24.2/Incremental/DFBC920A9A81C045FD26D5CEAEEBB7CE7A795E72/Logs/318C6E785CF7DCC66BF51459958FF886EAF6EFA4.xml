@@ -1,0 +1,8 @@
+<log>
+ <error level="error" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.2\source\dlib\external\zlib\inffast.c" line="50" col="33" msg="unknown type name &apos;strm&apos;" />
+ <error level="error" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.2\source\dlib\external\zlib\inffast.c" line="50" col="39" msg="unknown type name &apos;start&apos;" />
+ <error level="error" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.2\source\dlib\external\zlib\inffast.c" line="50" col="45" msg="expected &apos;;&apos; after top level declarator" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.2\source\dlib\external\zlib\inffast.c" line="51" col="11" msg="no previous extern declaration for non-static variable &apos;strm&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.2\source\dlib\external\zlib\inffast.c" line="52" col="10" msg="no previous extern declaration for non-static variable &apos;start&apos;" />
+ <error level="error" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.24.2\source\dlib\external\zlib\inffast.c" line="53" col="1" msg="expected unqualified-id" />
+</log>

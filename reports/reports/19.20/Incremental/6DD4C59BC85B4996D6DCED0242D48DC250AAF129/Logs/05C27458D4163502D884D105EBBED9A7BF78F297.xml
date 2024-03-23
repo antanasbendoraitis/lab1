@@ -1,0 +1,8 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.20\source\dlib\tokenizer\tokenizer_kernel_1.cpp" line="18" col="17" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.20\source\dlib\tokenizer\tokenizer_kernel_1.cpp" line="19" col="17" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.20\source\dlib\tokenizer\tokenizer_kernel_1.cpp" line="55" col="14" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.20\source\dlib\tokenizer\tokenizer_kernel_1.cpp" line="56" col="21" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.20\source\dlib\tokenizer\tokenizer_kernel_1.cpp" line="92" col="23" msg="zero as null pointer constant" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.20\source\dlib\tokenizer\tokenizer_kernel_1.cpp" line="4" col="9" msg="macro is not used" />
+</log>

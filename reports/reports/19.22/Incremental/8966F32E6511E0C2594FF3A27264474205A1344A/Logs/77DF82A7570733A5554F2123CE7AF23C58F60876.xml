@@ -1,0 +1,3 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.22\source\dlib\cuda\gpu_data.cpp" line="4" col="9" msg="macro is not used" />
+</log>

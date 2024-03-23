@@ -1,0 +1,5 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.19\source\dlib\sockstreambuf\sockstreambuf_unbuffered.cpp" line="139" col="18" msg="implicit conversion loses integer precision: &apos;int_type&apos; (aka &apos;int&apos;) to &apos;char_type&apos; (aka &apos;char&apos;)" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.19\source\dlib\sockstreambuf\sockstreambuf_unbuffered.cpp" line="146" col="18" msg="implicit conversion loses integer precision: &apos;int_type&apos; (aka &apos;int&apos;) to &apos;char_type&apos; (aka &apos;char&apos;)" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.19\source\dlib\sockstreambuf\sockstreambuf_unbuffered.cpp" line="4" col="9" msg="macro is not used" />
+</log>

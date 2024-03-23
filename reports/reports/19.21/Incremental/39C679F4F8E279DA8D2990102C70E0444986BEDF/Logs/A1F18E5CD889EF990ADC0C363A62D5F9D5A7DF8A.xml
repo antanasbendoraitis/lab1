@@ -1,0 +1,5 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\threads\async.cpp" line="21" col="23" msg="no previous prototype for function &apos;default_num_threads&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\threads\async.cpp" line="37" col="28" msg="declaration requires an exit-time destructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\antan\OneDrive\Stalinis kompiuteris\Magistras IV pusmetis\Programų priežiūra ir tobulinimas\Laboratorinis 1\dlib-19.21\source\dlib\threads\async.cpp" line="4" col="9" msg="macro is not used" />
+</log>

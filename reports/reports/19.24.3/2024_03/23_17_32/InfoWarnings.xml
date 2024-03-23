@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoWarnings>
+  <Info>Begin analysis with CppDepend v2024.1.0.27</Info>
+  <Warning>Evaluation 6 days left</Warning>
+  <Warning>No source files found</Warning>
+  <Info>No dependency cycle detected in Projects referencement graph.</Info>
+  <Info>Analyse dependencies of your application.</Info>
+  <Info>Log trend metrics values.</Info>
+  <Info>Execute queries and rules.</Info>
+  <Info>CppDepend analysis done. Duration: 00:00:07</Info>
+  <Info>Building the report (standard).</Info>
+</InfoWarnings>
